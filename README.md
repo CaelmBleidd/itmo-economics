@@ -115,7 +115,10 @@ B --> C[ГП благо]
 
 10) Антиблаго
 * То, что в нормальном состоянии люди не хотели бы получить
+
+### Потребности
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mzk2NjY4MCwtMTI4NzkzNzE5OCwtMT
-kwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbLTE0OTAwMTU3NjIsLTEyODc5MzcxOTgsLT
+E5MDM1NjA4ODRdfQ==
 -->
