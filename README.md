@@ -102,7 +102,9 @@ B --> C[ГП благо]
  
 ** слова про то, что прекрасная половина человечества должна сейчас не только изучать этот конспект, но и учиться готовить (с)** 
 
+7) Хранимые и нехранимые 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzAzOTAwMSwtMTI4NzkzNzE5OCwtMT
+eyJoaXN0b3J5IjpbMTc3MDAyMTcyNywtMTI4NzkzNzE5OCwtMT
 kwMzU2MDg4NF19
 -->
