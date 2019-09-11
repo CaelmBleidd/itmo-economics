@@ -75,8 +75,17 @@
   
   [Доклад Никиты](https://ibb.co/hKtTbh6)
   Когда-нибудь я его перепишу
+  ___
+Домашнее задание
+Выписать максимальное количество известных авторов экономических теорий из истории России 
 
+---
+
+Неоклассическое направление экономической мысли 
+Периоды:
+* "Старая" неоклассика (1890 - 1930)
+* "Оппозиционная" неоклассика (1930 - 1970 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk3MzYyNjIsLTk3Njg2NDAyNCwtMT
-IwMzYzODgyMl19
+eyJoaXN0b3J5IjpbODg5NTMyNTAwLC0xMTg5NzM2MjYyLC05Nz
+Y4NjQwMjQsLTEyMDM2Mzg4MjJdfQ==
 -->
