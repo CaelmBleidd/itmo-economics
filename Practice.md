@@ -123,7 +123,14 @@ __Джон Бейтс Кларк__
 * Концепция "экономического человека"
 * Трактовка политики как процесса обмена
 
+[Презентация](https://docs.google.com/presentation/d/1cusmgh7f-BgqKoeQmkCb6UH0TDMh8EmouNmbBTdlyFc/)
+
+___
+**Кейнсианство**
+Кейнсианство сложилось как реакция на Великую депрессию в США (1929 - 1939(. 
+40-70-е годы -- концепция занимала доминирующие позиции в развитых странах Запада
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDEyMzc1OSwtMTE4OTczNjI2MiwtOT
-c2ODY0MDI0LC0xMjAzNjM4ODIyXX0=
+eyJoaXN0b3J5IjpbLTE2MDAyODk1MjQsLTExODk3MzYyNjIsLT
+k3Njg2NDAyNCwtMTIwMzYzODgyMl19
 -->
