@@ -106,8 +106,9 @@ B --> C[ГП благо]
  * Есть что-то, что может портиться и терять свои свойства
  * Здания -- это хранимые
 
-
+8) Делимые и неделимые 
+* Предельный размер делимости -- на сколько частей можно поделить предмет, чтобы каждая из этих частей выполняла свою функцию
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDc4NzUzNiwtMTI4NzkzNzE5OCwtMT
-kwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbLTE3MTcxMDUzMjMsLTEyODc5MzcxOTgsLT
+E5MDM1NjA4ODRdfQ==
 -->
