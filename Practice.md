@@ -62,7 +62,9 @@
 
 Фома Аквинский -- итальянский канонист. Считал, что общество должно делиться по интересам и по "Божьему распределению". Считал, что частная собственность важна.
 
-
+---
+Посошков Иван Тихонович, жил в 17-18 веке. Издал труд "" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Njg2NDAyNCwtMTIwMzYzODgyMl19
+eyJoaXN0b3J5IjpbLTg2NjEyNTU2NSwtOTc2ODY0MDI0LC0xMj
+AzNjM4ODIyXX0=
 -->
