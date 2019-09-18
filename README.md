@@ -147,8 +147,8 @@ B --> C[ГП благо]
 Но **никогда** кривая не будет выпуклой относительно человечка.
 [Фоточка-картиночка](https://lh3.googleusercontent.com/Xvf5NaOqRIqEu4HaOcu9rwhgojlhBpJfJ_2HEm9iP0lo7S-HIJx9sPIjz_sHasNyPSpWNR_f-OJr)
 
-Деале
+Рисуем график средства производства -- предметы производства. В рамках краткосрочной перспективы лучше жить там, где больше предметов потребления, так большая часть людей будет удовлетворена. Что делать дальше? Если мы всё пустили на производство предметов потребления, что мы будем делать дальше? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk2MTU2OTcsLTE2MzQxNDUxNDUsLT
+eyJoaXN0b3J5IjpbLTExODQ4MjM2NDMsLTE2MzQxNDUxNDUsLT
 I5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
