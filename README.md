@@ -158,8 +158,13 @@ B --> C[ГП благо]
 ![enter image description here](https://lh3.googleusercontent.com/TVsVYd6CMxu5yzA7-vGhFJnE6JfSS4XtJSsv0tCn3xyGo2SUN8pYI716DXBnkBVm3BvP1ZKAg_Px "Фоточка-картиночка")
 
 ## Типы экономических систем
+Экономическая система -- совокупность всех социально экономических процессов, совершающихся в обществе на основе действующих в нём организационных форм собственности. 
 
+Выделяют четыре типа хозяйственных систем:
+1. Традиционная 
+2. Рыночная
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTkyNDgyNCwtMTYzNDE0NTE0NSwtMj
+eyJoaXN0b3J5IjpbLTg3NDY1MzAwNSwtMTYzNDE0NTE0NSwtMj
 k4Mjk5NTcyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
 -->
