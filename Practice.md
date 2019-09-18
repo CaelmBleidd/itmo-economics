@@ -163,8 +163,8 @@ MV = PQ,
 
 ### Великая депрессия
 * Основная проблема -- отсутствие денег 
-* 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI1MDc4NjMsLTE1MDQ0Njg3ODEsLT
+eyJoaXN0b3J5IjpbLTEwMzQ0OTQ3NTMsLTE1MDQ0Njg3ODEsLT
 ExODk3MzYyNjIsLTk3Njg2NDAyNCwtMTIwMzYzODgyMl19
 -->
