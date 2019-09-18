@@ -158,8 +158,13 @@ MV = PQ,
 Ключевые положения монетаризма:
 * спрос на деньги и предложение денег
 * монетарное правило M_s = P_e + Y
-* концепция инфляц 
+* концепция инфляции
+* отношение к безработице
+
+### Великая депрессия
+* Основная проблема -- отсутствие денег 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzU1NTM1MiwtMTUwNDQ2ODc4MSwtMT
-E4OTczNjI2MiwtOTc2ODY0MDI0LC0xMjAzNjM4ODIyXX0=
+eyJoaXN0b3J5IjpbLTIwMzI1MDc4NjMsLTE1MDQ0Njg3ODEsLT
+ExODk3MzYyNjIsLTk3Njg2NDAyNCwtMTIwMzYzODgyMl19
 -->
