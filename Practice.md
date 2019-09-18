@@ -137,7 +137,8 @@ ___
 Лёгкий пример:
 как-то раз один житель Нью-Йорка отправился на дикий запад. Он зашёл в Бар, увидел много подозрительных лиц, испугался, попросил владельца бара сохранить 500 долларов. Владелец согласился, но не положил в сейф, а ... <спросить у Кости Крамера историю про фальшивые 500 долларов>
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ0Njg3ODEsLTExODk3MzYyNjIsLT
-k3Njg2NDAyNCwtMTIwMzYzODgyMl19
+eyJoaXN0b3J5IjpbLTY1MTkwMTM3NSwtMTUwNDQ2ODc4MSwtMT
+E4OTczNjI2MiwtOTc2ODY0MDI0LC0xMjAzNjM4ODIyXX0=
 -->
