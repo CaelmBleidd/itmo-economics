@@ -184,8 +184,10 @@ MV = PQ,
 
 **Б И Х Е В И О Р И З М**
 
- 
+Теория институционализм: сущность, основные течения
+Что такое институционализм?
+* направление в экономике, исследующее политичес 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg2NjQ4MDgsLTE1MDQ0Njg3ODEsLT
-ExODk3MzYyNjIsLTk3Njg2NDAyNCwtMTIwMzYzODgyMl19
+eyJoaXN0b3J5IjpbMTUxNDE4Njg3OCwtMTUwNDQ2ODc4MSwtMT
+E4OTczNjI2MiwtOTc2ODY0MDI0LC0xMjAzNjM4ODIyXX0=
 -->
