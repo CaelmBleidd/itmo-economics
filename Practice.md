@@ -239,9 +239,10 @@ MV = PQ,
 Точка Б: 80 кинокамер, 60 наручных часов
 Точка В: 35 кинокамер, 300 наручных часов
 Точка Г: 40 кинокамер, 500 наручных часов
-Точка Д: 250 кинокамер, 
+Точка Д: 250 кинокамер, 58 наручных часов
+Остави
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzU3MDgzMCw3NzM0NzY5ODYsNDIxNz
+eyJoaXN0b3J5IjpbMTIyMTg5MDM4Miw3NzM0NzY5ODYsNDIxNz
 g4NTcxLC0xNTA0NDY4NzgxLC0xMTg5NzM2MjYyLC05NzY4NjQw
 MjQsLTEyMDM2Mzg4MjJdfQ==
 -->
