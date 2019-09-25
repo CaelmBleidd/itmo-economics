@@ -233,9 +233,15 @@ MV = PQ,
 
 Задача в таблице, писать я её не буду
 
-
+### Практика №3
+Производство в стране включает два товара: кинокамеры (80 штук) и наручные часы (400 штук). Задание: постройте КПВ страны и определите, какие точки являются эффективными, неэффективными и невозможными. 
+Точка А: 60 кинокамер, 200 наручных часов
+Точка Б: 80 кинокамер, 60 наручных часов
+Точка В: 35 кинокамер, 300 наручных часов
+Точка Г: 40 кинокамер, 500 наручных часов
+Точка Д: 250 кинокамер, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzY4NDc3ODYsNzczNDc2OTg2LDQyMT
-c4ODU3MSwtMTUwNDQ2ODc4MSwtMTE4OTczNjI2MiwtOTc2ODY0
-MDI0LC0xMjAzNjM4ODIyXX0=
+eyJoaXN0b3J5IjpbMTM5MzU3MDgzMCw3NzM0NzY5ODYsNDIxNz
+g4NTcxLC0xNTA0NDY4NzgxLC0xMTg5NzM2MjYyLC05NzY4NjQw
+MjQsLTEyMDM2Mzg4MjJdfQ==
 -->
