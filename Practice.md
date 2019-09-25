@@ -246,8 +246,10 @@ MV = PQ,
 1) Какой способ передвижения дешевле для человека, зарабатывающего 50 у.е. в будни с понедельника по пятницу?
 2) Если четыре из девяти дней на поезде приходятся на выходные, то сколько должен зарабатывать путешественник в будний день, чтобы ему было всё равно, каким образом добираться?
 Эту задачу оставим читателю в качестве разминки.
+
+**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUyMDA2MzYsNzczNDc2OTg2LDQyMT
-c4ODU3MSwtMTUwNDQ2ODc4MSwtMTE4OTczNjI2MiwtOTc2ODY0
-MDI0LC0xMjAzNjM4ODIyXX0=
+eyJoaXN0b3J5IjpbMTQ0OTk4OTUzNiwtMTQ3NTIwMDYzNiw3Nz
+M0NzY5ODYsNDIxNzg4NTcxLC0xNTA0NDY4NzgxLC0xMTg5NzM2
+MjYyLC05NzY4NjQwMjQsLTEyMDM2Mzg4MjJdfQ==
 -->
