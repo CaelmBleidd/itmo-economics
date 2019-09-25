@@ -232,8 +232,10 @@ MV = PQ,
 Петров хочет отремонтировать квартиру. Он может нанять мастеров и заплатить им 15к рублей, а может сделать ремонт сам, и тогда он обойдётся ему в 5к рублей на материалы, но для этого ему придётся взять отпуск без сохранения заработка. В день он зарабатывает 500 рублей. Вопрос: какое максимальное число дней Петров может потратить на ремонт, чтобы не нести убытки
 
 Задача в таблице, писать я её не буду
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNDc2OTg2LDQyMTc4ODU3MSwtMTUwND
-Q2ODc4MSwtMTE4OTczNjI2MiwtOTc2ODY0MDI0LC0xMjAzNjM4
-ODIyXX0=
+eyJoaXN0b3J5IjpbLTE3MzY4NDc3ODYsNzczNDc2OTg2LDQyMT
+c4ODU3MSwtMTUwNDQ2ODc4MSwtMTE4OTczNjI2MiwtOTc2ODY0
+MDI0LC0xMjAzNjM4ODIyXX0=
 -->
