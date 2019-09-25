@@ -247,9 +247,11 @@ MV = PQ,
 2) Если четыре из девяти дней на поезде приходятся на выходные, то сколько должен зарабатывать путешественник в будний день, чтобы ему было всё равно, каким образом добираться?
 Эту задачу оставим читателю в качестве разминки.
 
-**
+**какая-то задача**
+
+Дальше разбиваемся на команды
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTk4OTUzNiwtMTQ3NTIwMDYzNiw3Nz
+eyJoaXN0b3J5IjpbMTYwMzIyNTUxMiwtMTQ3NTIwMDYzNiw3Nz
 M0NzY5ODYsNDIxNzg4NTcxLC0xNTA0NDY4NzgxLC0xMTg5NzM2
 MjYyLC05NzY4NjQwMjQsLTEyMDM2Mzg4MjJdfQ==
 -->
