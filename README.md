@@ -211,9 +211,9 @@ B --> C[ГП благо]
 Величина предложения -- количество товара, которое производитель готов предложить на рынке по какой-то конкретной цене.
 
 Предложение -- количество товара, которое производитель готов продать на рынке по каждой цене на данный момент времени 
-<кривая предложения> Прямая зависим
+<кривая предложения> Прямая зависимость
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU5MjkyNzQsLTk3MzIzNjQ3NiwxNT
-M4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5
-OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbNzI4NTY5ODUsLTk3MzIzNjQ3NiwxNTM4OD
+I5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3
+MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
