@@ -215,9 +215,12 @@ B --> C[ГП благо]
 
 Неценовые факторы:
 1. Стоимость сырья
-1. Научно-технический прогресс
+2. Научно-технический прогресс
+3. Налоговое бремя
+4. Количество производителей
+5. Ожидания
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMxMzg3NjQsLTk3MzIzNjQ3NiwxNT
-M4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5
-OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbNTAzNzA5NjAsLTk3MzIzNjQ3NiwxNTM4OD
+I5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3
+MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
