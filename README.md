@@ -206,8 +206,14 @@ B --> C[ГП благо]
 Исключения:
 1. Парадокс Гиффена
 2. Эффект Веблена
+
+### Предложение
+Величина предложения -- количество товара, которое производитель готов предложить на рынке по какой-то конкретной цене.
+
+Предложение -- количество товара, которое производитель готов продать на рынке по каждой цене на данный момент времени 
+<кривая предложения> Прямая зависим
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4ODQwNjQ0LC05NzMyMzY0NzYsMTUzOD
-gyOTEyOSwtMjkzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1
-NzIsLTEyODc5MzcxOTgsLTE5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDU5MjkyNzQsLTk3MzIzNjQ3NiwxNT
+M4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5
+OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
