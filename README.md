@@ -203,9 +203,11 @@ B --> C[ГП благо]
 4. Вкусы и предпочтения
 5. Ожидание потребителей
 
-Исключения
+Исключения:
+1. Парадокс Гиффена
+2. Эффект Веблена
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk2NjQwOTcsLTk3MzIzNjQ3NiwxNT
-M4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5
-OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbNTI4ODQwNjQ0LC05NzMyMzY0NzYsMTUzOD
+gyOTEyOSwtMjkzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1
+NzIsLTEyODc5MzcxOTgsLTE5MDM1NjA4ODRdfQ==
 -->
