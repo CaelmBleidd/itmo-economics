@@ -201,9 +201,11 @@ B --> C[ГП благо]
 2. Взаимозаменяемые и взаимодополняемые товары
 3. Количество потребителей на рынке
 4. Вкусы и предпочтения
-5. 
+5. Ожидание потребителей
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTg0OTUzNiwtOTczMjM2NDc2LDE1Mz
-g4MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5
-NTcyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbLTExNDI1MjA3NjcsLTk3MzIzNjQ3NiwxNT
+M4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5
+OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
