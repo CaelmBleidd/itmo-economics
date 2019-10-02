@@ -221,10 +221,13 @@ B --> C[ГП благо]
 5. Ожидания
 6. Временной период
 
-Точка равновесия находится на пересечении кривых спроса и предложения 
+Точка равновесия находится на пересечении кривых спроса и предложения, введено понятие было Маршаллом. 
+
+![enter image description here](https://lh3.googleusercontent.com/3WN4LGFuzzs1gm7uVr_0Az4oSH7ULa33_e4xC0UpLDwatFkRjdPHhrb18UjPFia2QPP0F63gpK-q)
+На рынке труда могут быть две точки равновесия
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjUxMzYxNCwtMjc2NjY5OTc5LC05Nz
-MyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3LC0xNjM0MTQ1
-MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLTE5MDM1NjA4OD
-RdfQ==
+eyJoaXN0b3J5IjpbNzY2NDE3NzEsLTI3NjY2OTk3OSwtOTczMj
+M2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0
+NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX
+0=
 -->
