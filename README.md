@@ -193,8 +193,14 @@ B --> C[ГП благо]
 Закон спроса:
 потребители готовы приобретать по высокой цене малое количество товара, со снижением цены растёт количество спроса
 <нарисовали кривую спроса> Выпуклая относительно челика, который сидит всё там же.
+
+Изменяют кривую в отдельных местах только цена.
+
+Что может вызывать изменение всей кривой спроса? Так называемые неценовые факторы:
+1. Количество доступных денег
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODgyOTEyOSwtMjkzNDkwMDQ3LC0xNj
-M0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLTE5MDM1
-NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOT
+M0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4Nzkz
+NzE5OCwtMTkwMzU2MDg4NF19
 -->
