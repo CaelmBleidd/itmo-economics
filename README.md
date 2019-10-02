@@ -203,9 +203,9 @@ B --> C[ГП благо]
 4. Вкусы и предпочтения
 5. Ожидание потребителей
 
-
+Исключения
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI1MjA3NjcsLTk3MzIzNjQ3NiwxNT
+eyJoaXN0b3J5IjpbLTE2OTk2NjQwOTcsLTk3MzIzNjQ3NiwxNT
 M4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5
 OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
