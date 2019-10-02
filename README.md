@@ -219,8 +219,9 @@ B --> C[ГП благо]
 3. Налоговое бремя
 4. Количество производителей
 5. Ожидания
+6. Временной период
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzNzA5NjAsLTk3MzIzNjQ3NiwxNTM4OD
-I5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3
-MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mz
+g4MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5
+NTcyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
 -->
