@@ -192,9 +192,9 @@ B --> C[ГП благо]
  
 Закон спроса:
 потребители готовы приобретать по высокой цене малое количество товара, со снижением цены растёт количество спроса
-<нарисовали кривую спроса>
+<нарисовали кривую спроса> Выпуклая относительно челика, который сидит всё там же.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5OTQ0ODQ0LC0yOTM0OTAwNDcsLTE2Mz
-QxNDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2
-MDg4NF19
+eyJoaXN0b3J5IjpbMTUzODgyOTEyOSwtMjkzNDkwMDQ3LC0xNj
+M0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLTE5MDM1
+NjA4ODRdfQ==
 -->
