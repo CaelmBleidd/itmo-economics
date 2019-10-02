@@ -212,8 +212,12 @@ B --> C[ГП благо]
 
 Предложение -- количество товара, которое производитель готов продать на рынке по каждой цене на данный момент времени 
 <кривая предложения> Прямая зависимость
+
+Неценовые факторы:
+1. Стоимость сырья
+1. Научно-технический прогресс
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NTY5ODUsLTk3MzIzNjQ3NiwxNTM4OD
-I5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3
-MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbLTE1OTMxMzg3NjQsLTk3MzIzNjQ3NiwxNT
+M4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5
+OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
