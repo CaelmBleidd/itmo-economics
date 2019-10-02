@@ -199,9 +199,11 @@ B --> C[ГП благо]
 Что может вызывать изменение всей кривой спроса? Так называемые неценовые факторы:
 1. Количество доступных денег
 2. Взаимозаменяемые и взаимодополняемые товары
-3. 
+3. Количество потребителей на рынке
+4. Вкусы и предпочтения
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MjExNzAwLC05NzMyMzY0NzYsMTUzOD
-gyOTEyOSwtMjkzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1
-NzIsLTEyODc5MzcxOTgsLTE5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbMTQ2OTg0OTUzNiwtOTczMjM2NDc2LDE1Mz
+g4MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5
+NTcyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
 -->
