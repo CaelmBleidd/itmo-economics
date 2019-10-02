@@ -220,8 +220,11 @@ B --> C[ГП благо]
 4. Количество производителей
 5. Ожидания
 6. Временной период
+
+Точка равновесия находится на пересечении кривых спроса и предложения 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mz
-g4MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5
-NTcyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbMTgxMjUxMzYxNCwtMjc2NjY5OTc5LC05Nz
+MyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3LC0xNjM0MTQ1
+MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLTE5MDM1NjA4OD
+RdfQ==
 -->
