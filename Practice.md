@@ -250,8 +250,15 @@ MV = PQ,
 **какая-то задача**
 
 Дальше разбиваемся на команды
+
+
+### Задачки
+Бутылка с пробкой стоит 12 копеек. Она прочитала остаток задачи быстрее, чем можно было услышать. Скип
+Скип задача
+В понедельник акции подорожали на некоторое количество процентов, а во вторник подешевели на то же количество процентов. В результате они стали стоить дешевле на 1 процент, чем стоили изначально
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzIyNTUxMiwtMTQ3NTIwMDYzNiw3Nz
-M0NzY5ODYsNDIxNzg4NTcxLC0xNTA0NDY4NzgxLC0xMTg5NzM2
-MjYyLC05NzY4NjQwMjQsLTEyMDM2Mzg4MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTQ4MjkzMTMsMTYwMzIyNTUxMiwtMT
+Q3NTIwMDYzNiw3NzM0NzY5ODYsNDIxNzg4NTcxLC0xNTA0NDY4
+NzgxLC0xMTg5NzM2MjYyLC05NzY4NjQwMjQsLTEyMDM2Mzg4Mj
+JdfQ==
 -->
