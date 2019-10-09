@@ -236,10 +236,18 @@ TODO(ВМЁРЖИТЬ ЛЕКЦИЮ ВЛАДИМИРА)
 Если >5%, используется дуговая формула: `E_dp = (Q_d2 - Q_d1) / [(Q_d2 + Qd1) : 2] : (P_2 - P_1) / [(P_2 + P_1) : 2]`
 
 Если E_dp > 1, мы говорим, что это эластичный спрос
-Если E_dp = 1, это
+Если E_dp = 1, это спрос единичной эластичности 
+Если 0 < E_dp < 1, это неэластичный спрос
+
+Если линия эластичного спроса горизонтальная -- это абсолютный эластичный спрос, E_d -> +inf
+Если прямая спроса вертикальная -- это абсолютно неэластичный спрос. E_d = 0. Нет никакого изменения вне зависимости от изменения цены. Например, если вам нужна операция, от которой зависит ваша жизнь, и вы готовы заплатить любую цену
+
+![enter image description here](https://lh3.googleusercontent.com/7W08GDVS2UuRrVHGoe4mZgSRO4ug5ca_2eWvkHPAZ9wN-7GpE34KmaJgORjsqdk0nLCSAxX3E_zk)
+
+1. Если у товара есть заменители,  объём спроса на данный товар может измениться (возможно, достаточно значительно). Если нет заменителей, практически ничего не изменится. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY3OTc4NzgsNzY2NDE3NzEsLTI3Nj
-Y2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0
-NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC
-0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbMTA1MDQwMTYwOCw3NjY0MTc3MSwtMjc2Nj
+Y5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3
+LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLT
+E5MDM1NjA4ODRdfQ==
 -->
