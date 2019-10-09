@@ -277,6 +277,7 @@ E_di < 0 -- некачественные товары (речь не о каче
 Если <5% точечная -- `E_s = delta Q_s * P_0 : (Q_s0 * delta P)`
 Если >5% дуговая -- `E_s = (Q_s2 - Qs1) * (P_2 + P_1) / ((Q_s2 + Q_s1) * (P_2 - P_1))`
 
+
 ![enter image description here](https://lh3.googleusercontent.com/rYyoTtdkAM_nzS_CsZX64KHHOjOfEID86_xKihIBw62i4hH_UZGrxnb_FYdJIIy_IgmwlT-l2M7a)
 
 Факторы:
@@ -292,6 +293,7 @@ E_di < 0 -- некачественные товары (речь не о каче
 Дали понятие, что такое полезность. Исходили из двух основных положений: спрос определяется полезностью  
 Общая полезность (total utility) -- сумма полезности всех потреблённых благ 
 Предельная полезность (margin utility) -- `delta (Total utility) / delta Q`
+
 ![enter image description here](https://lh3.googleusercontent.com/bPm1-ot_3osvi21XqHj75gsdEPwFPdr5sFCsj4FeVXAnDBaSklgV8Yg7a4QmA5z9yWPjHB3EuClA)
 
 Два закона Госсена:
@@ -299,9 +301,9 @@ E_di < 0 -- некачественные товары (речь не о каче
 2. Предельная полезность каждой последующей единицы уменьшается
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM3NDkzMDIsLTE5MjI0NTAwMzQsLT
-E3OTM0NzM4NzYsNzY2NDE3NzEsLTI3NjY2OTk3OSwtOTczMjM2
-NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NS
-wtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
-
+eyJoaXN0b3J5IjpbLTE2NjA4ODQ2MzQsLTExNzM3NDkzMDIsLT
+E5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLTI3NjY2
+OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0Ny
+wtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC0x
+OTAzNTYwODg0XX0=
 -->
