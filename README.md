@@ -224,10 +224,19 @@ B --> C[ГП благо]
 Точка равновесия находится на пересечении кривых спроса и предложения, введено понятие было Маршаллом. 
 
 ![enter image description here](https://lh3.googleusercontent.com/3WN4LGFuzzs1gm7uVr_0Az4oSH7ULa33_e4xC0UpLDwatFkRjdPHhrb18UjPFia2QPP0F63gpK-q)
+
 На рынке труда могут быть две точки равновесия
+
+## Эластичность спроса и предложения 
+Эластичность -- это показатель, который позволяет определить на сколько процентов изменится одна экономическая величина при изменении другой на один процент. 
+
+Ценовая эластичность спроса
+Показатель обозначается буковкой E с индексами d (или s) и p. Это, по определению, процентное изменение величины спроса делённое на процентное изменение цены. 
+Если <5%, используется формула точечной эластичности спроса по цене: `E(d) = delta(Q)d / Qd : delta(P) / P_0`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2NDE3NzEsLTI3NjY2OTk3OSwtOTczMj
-M2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0
-NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX
-0=
+eyJoaXN0b3J5IjpbLTkyOTA0NjY1MSw3NjY0MTc3MSwtMjc2Nj
+Y5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3
+LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLT
+E5MDM1NjA4ODRdfQ==
 -->
