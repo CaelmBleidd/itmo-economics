@@ -250,7 +250,7 @@ MV = PQ,
 **какая-то задача**
 
 Дальше разбиваемся на команды
-
+Тимбилдинг
 
 ### Задачки
 Бутылка с пробкой стоит 12 копеек. Она прочитала остаток задачи быстрее, чем можно было услышать. Скип
@@ -259,8 +259,8 @@ MV = PQ,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjIwNjgzNywtMzk2OTY2NDczLDE2MD
-MyMjU1MTIsLTE0NzUyMDA2MzYsNzczNDc2OTg2LDQyMTc4ODU3
-MSwtMTUwNDQ2ODc4MSwtMTE4OTczNjI2MiwtOTc2ODY0MDI0LC
-0xMjAzNjM4ODIyXX0=
+eyJoaXN0b3J5IjpbLTEzNzQwODkxMTcsLTkzMjIwNjgzNywtMz
+k2OTY2NDczLDE2MDMyMjU1MTIsLTE0NzUyMDA2MzYsNzczNDc2
+OTg2LDQyMTc4ODU3MSwtMTUwNDQ2ODc4MSwtMTE4OTczNjI2Mi
+wtOTc2ODY0MDI0LC0xMjAzNjM4ODIyXX0=
 -->
