@@ -244,11 +244,13 @@ TODO(ВМЁРЖИТЬ ЛЕКЦИЮ ВЛАДИМИРА)
 
 ![enter image description here](https://lh3.googleusercontent.com/7W08GDVS2UuRrVHGoe4mZgSRO4ug5ca_2eWvkHPAZ9wN-7GpE34KmaJgORjsqdk0nLCSAxX3E_zk)
 
+Факторы:
 1. Если у товара есть заменители,  объём спроса на данный товар может измениться (возможно, достаточно значительно). Если нет заменителей, практически ничего не изменится. 
-2. Значимость товара. Чем нужнее нам тот или иной товар, тем чувствительность будет ниже
+2. Значимость товара. Чем нужнее нам тот или иной товар, тем чувствительность будет ниже (E_dp > 1 -- товары длительного использования или предметы роскоши, E_dp = 1 -- товары повседневного использования, 0 < E_dp < 1 -- товары первой необходимости)
+3. Удельный вес товара в бюджете потребителя
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NTMxMTIsNzY2NDE3NzEsLTI3NjY2OT
-k3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0Nywt
-MTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC0xOT
-AzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbLTYwMDEwNjQ4MSw3NjY0MTc3MSwtMjc2Nj
+Y5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3
+LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLT
+E5MDM1NjA4ODRdfQ==
 -->
