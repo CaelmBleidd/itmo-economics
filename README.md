@@ -291,10 +291,14 @@ E_di < 0 -- некачественные товары (речь не о каче
 ### Кардиналистская теория
 Дали понятие, что такое полезность. Исходили из двух основных положений: спрос определяется полезностью  
 Общая полезность (total utility) -- сумма полезности всех потреблённых благ 
-Предельная полезность (margin utility) -- 
+Предельная полезность (margin utility) -- delta (Total utility) / delta Q
+
+Два закона Госсена:
+1. С увеличением количества благ общая полезность увеличивается (но не до бесконечности, иначе бы мы лопнули. Увеличивается до определённой точки, в которой принимает максимальное значение. Точка соответствует максимальному насыщению)
+2. Предельная полезность каждой последующей единицы уменьшается
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA0MDgwNTcsLTE3OTM0NzM4NzYsNz
+eyJoaXN0b3J5IjpbLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNz
 Y2NDE3NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4Mjkx
 MjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC
 0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
