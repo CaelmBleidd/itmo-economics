@@ -248,9 +248,10 @@ TODO(ВМЁРЖИТЬ ЛЕКЦИЮ ВЛАДИМИРА)
 1. Если у товара есть заменители,  объём спроса на данный товар может измениться (возможно, достаточно значительно). Если нет заменителей, практически ничего не изменится. 
 2. Значимость товара. Чем нужнее нам тот или иной товар, тем чувствительность будет ниже (E_dp > 1 -- товары длительного использования или предметы роскоши, E_dp = 1 -- товары повседневного использования, 0 < E_dp < 1 -- товары первой необходимости)
 3. Удельный вес товара в бюджете потребителя
+4. Временной фактор
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDEwNjQ4MSw3NjY0MTc3MSwtMjc2Nj
-Y5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3
-LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLT
-E5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbMjA5NTA0MDg2LDc2NjQxNzcxLC0yNzY2Nj
+k5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0OTAwNDcs
+LTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMT
+kwMzU2MDg4NF19
 -->
