@@ -249,9 +249,21 @@ TODO(ВМЁРЖИТЬ ЛЕКЦИЮ ВЛАДИМИРА)
 2. Значимость товара. Чем нужнее нам тот или иной товар, тем чувствительность будет ниже (E_dp > 1 -- товары длительного использования или предметы роскоши, E_dp = 1 -- товары повседневного использования, 0 < E_dp < 1 -- товары первой необходимости)
 3. Удельный вес товара в бюджете потребителя
 4. Временной фактор
+
+### Перекрёстная эластичность спроса
+E_dxy или E_d12 (показываем, что зависимость **двух** товаров)
+`E_dxy = % delta Q_dx / % delta P_y`
+`E_dxy = delta Q_dx / Q_dx0 : (delta P_y / P_y0)`
+Если E_dxy > 0 -- взаимодополняемые товары
+Если E_dxy = 0 -- нейтральные, независимые товары
+Если E_dxy < 0 -- взаимозаменяемые товары
+
+### Эластичность спроса по доходу
+`E_di = % delta Q_d / % delta I`
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTA0MDg2LDc2NjQxNzcxLC0yNzY2Nj
-k5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0OTAwNDcs
-LTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMT
-kwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbLTE0OTYyODQzOSw3NjY0MTc3MSwtMjc2Nj
+Y5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3
+LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLT
+E5MDM1NjA4ODRdfQ==
 -->
