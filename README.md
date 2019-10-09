@@ -291,7 +291,9 @@ E_di < 0 -- некачественные товары (речь не о каче
 
 ### Кардиналистская теория
 Дали понятие, что такое полезность. Исходили из двух основных положений: спрос определяется полезностью  
-Общая полезность (total utility) -- сумма полезности всех потреблённых благ 
+
+Общая полезность (total utility) -- сумма полезности всех потреблённых благ
+
 Предельная полезность (margin utility) -- `delta (Total utility) / delta Q`
 
 ![enter image description here](https://lh3.googleusercontent.com/bPm1-ot_3osvi21XqHj75gsdEPwFPdr5sFCsj4FeVXAnDBaSklgV8Yg7a4QmA5z9yWPjHB3EuClA)
@@ -301,9 +303,9 @@ E_di < 0 -- некачественные товары (речь не о каче
 2. Предельная полезность каждой последующей единицы уменьшается
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA4ODQ2MzQsLTExNzM3NDkzMDIsLT
-E5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLTI3NjY2
-OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0Ny
-wtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC0x
-OTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbMTkxMjcwNDc4LC0xMTczNzQ5MzAyLC0xOT
+IyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQxNzcxLC0yNzY2Njk5
+NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0OTAwNDcsLT
+E2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMTkw
+MzU2MDg4NF19
 -->
