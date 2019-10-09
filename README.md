@@ -290,9 +290,12 @@ E_di < 0 -- некачественные товары (речь не о каче
 
 ### Кардиналистская теория
 Дали понятие, что такое полезность. Исходили из двух основных положений: спрос определяется полезностью  
+Общая полезность (total utility) -- сумма полезности всех потреблённых благ 
+Предельная полезность (margin utility) -- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDc1MjQwMywtMTc5MzQ3Mzg3Niw3Nj
-Y0MTc3MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEy
-OSwtMjkzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLT
-EyODc5MzcxOTgsLTE5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDA0MDgwNTcsLTE3OTM0NzM4NzYsNz
+Y2NDE3NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4Mjkx
+MjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC
+0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
 -->
