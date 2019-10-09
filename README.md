@@ -284,9 +284,15 @@ E_di < 0 -- некачественные товары (речь не о каче
 2. Наличие мощностей
 3. Временной фактор
 4. Мобильность ресурсов
+
+## Теория потребительского поведения
+Полезность -- удовлетворение, которое потребитель получает от потребления какого-либо блага.
+
+### Кардиналистская теория
+Дали понятие, что такое полезность. Исходили из двух основных положений: спрос определяется полезностью  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM0NzM4NzYsNzY2NDE3NzEsLTI3Nj
-Y2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0
-NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC
-0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbLTk4NDc1MjQwMywtMTc5MzQ3Mzg3Niw3Nj
+Y0MTc3MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEy
+OSwtMjkzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLT
+EyODc5MzcxOTgsLTE5MDM1NjA4ODRdfQ==
 -->
