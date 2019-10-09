@@ -281,10 +281,12 @@ E_di < 0 -- некачественные товары (речь не о каче
 
 Факторы:
 1. Наличие товарного запаса
-2.  
+2. Наличие мощностей
+3. Временной фактор
+4. Мобильность ресурсов
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDc4MDcxOSw3NjY0MTc3MSwtMjc2Nj
-Y5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3
-LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLT
-E5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbLTE3OTM0NzM4NzYsNzY2NDE3NzEsLTI3Nj
+Y2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0
+NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC
+0xOTAzNTYwODg0XX0=
 -->
