@@ -260,10 +260,16 @@ E_dxy или E_d12 (показываем, что зависимость **дву
 
 ### Эластичность спроса по доходу
 `E_di = % delta Q_d / % delta I`
- 
+`E_di = delta Q_d / Q_d0 : (delta I / I_0)`
+E_di > 0 -- нормальные товары
+0 < E_di < 1 -- товары первой необходимости 
+E_di = 1 -- товары повседневного спроса
+E_di > 1 -- предметы роскоши
+E_di = 0 -- нейтральные товары
+E_di < 0 -- некачественные товары (возм
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYyODQzOSw3NjY0MTc3MSwtMjc2Nj
-Y5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3
-LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLT
-E5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQ1MzMyNjcsNzY2NDE3NzEsLTI3Nj
+Y2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5MDA0
+NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MTk4LC
+0xOTAzNTYwODg0XX0=
 -->
