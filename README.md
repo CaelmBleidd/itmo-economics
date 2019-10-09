@@ -274,11 +274,17 @@ E_di < 0 -- некачественные товары (речь не о каче
 `E_s = % delta Q / % delta P`
 Эластичность предложения -- показатель, который позволяет определить, на сколько процентов изменится величина предложения при изменении цены на один процент
 
-< 5% точечная -- `E_s = delta Q_s * P_0 : (Q_s0 * delta P)`
-> 
+Если <5% точечная -- `E_s = delta Q_s * P_0 : (Q_s0 * delta P)`
+Если >5% дуговая -- `E_s = (Q_s2 - Qs1) * (P_2 + P_1) / ((Q_s2 + Q_s1) * (P_2 - P_1))`
+
+![enter image description here](https://lh3.googleusercontent.com/rYyoTtdkAM_nzS_CsZX64KHHOjOfEID86_xKihIBw62i4hH_UZGrxnb_FYdJIIy_IgmwlT-l2M7a)
+
+Факторы:
+1. Наличие товарного запаса
+2.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1NjI2MjMxLDc2NjQxNzcxLC0yNzY2Nj
-k5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0OTAwNDcs
-LTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMT
-kwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbMTc1NDc4MDcxOSw3NjY0MTc3MSwtMjc2Nj
+Y5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkwMDQ3
+LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOTgsLT
+E5MDM1NjA4ODRdfQ==
 -->
