@@ -1,4 +1,4 @@
-
+** Записи по практике очень неполные, потому что это говнище невозможно конспектировать **
 
 ## Практика №1
 
@@ -256,9 +256,11 @@ MV = PQ,
 Бутылка с пробкой стоит 12 копеек. Она прочитала остаток задачи быстрее, чем можно было услышать. Скип
 Скип задача			
 В понедельник акции подорожали на некоторое количество процентов, а во вторник подешевели на то же количество процентов. В результате они стали стоить дешевле на 1 процент, чем стоили изначально
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Njk2NjQ3MywxNjAzMjI1NTEyLC0xND
-c1MjAwNjM2LDc3MzQ3Njk4Niw0MjE3ODg1NzEsLTE1MDQ0Njg3
-ODEsLTExODk3MzYyNjIsLTk3Njg2NDAyNCwtMTIwMzYzODgyMl
-19
+eyJoaXN0b3J5IjpbLTkzMjIwNjgzNywtMzk2OTY2NDczLDE2MD
+MyMjU1MTIsLTE0NzUyMDA2MzYsNzczNDc2OTg2LDQyMTc4ODU3
+MSwtMTUwNDQ2ODc4MSwtMTE4OTczNjI2MiwtOTc2ODY0MDI0LC
+0xMjAzNjM4ODIyXX0=
 -->
