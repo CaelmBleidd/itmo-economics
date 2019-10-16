@@ -337,10 +337,12 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 Угол наклона `P_x / P_y`
 
 Состояние равновесия достигается в точке касания кривой безразличия и бюджетной линии
+Состояние равновесия потребителя: `MRS = -Q_y / Q_x = P_x / P_y`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NDM4MDY1LDE5MTI3MDQ3OCwtMTE3Mz
-c0OTMwMiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Niw3NjY0MTc3
-MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMj
-kzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5
-MzcxOTgsLTE5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbMTExNjcwNjcyNSwxOTEyNzA0NzgsLTExNz
+M3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3
+NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLT
+I5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3
+OTM3MTk4LC0xOTAzNTYwODg0XX0=
 -->
