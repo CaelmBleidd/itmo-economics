@@ -342,10 +342,17 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 ## Теория фирмы
 Основным субъектом является предприниматель, основная цель производства -- получение прибыли 
 `TR = P * Q` -- выручка - это произведения цены товара на его количество
+`Прибыль = TR - TC` Total Revenue, Total Consts
+`AR -- Average revenue = TR / Q`
+`MR -- marginal revenue = delta TR / delta Q`
+
+Виды издержек
+1. Явные (фактические, бухгалтерские)
+2. Неявные (альтернативные, издержки упущенной выгоды)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcxODcyNDEsMTkxMjcwNDc4LC0xMT
-czNzQ5MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQx
-NzcxLC0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC
-0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4
-NzkzNzE5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNz
+M3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3
+NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLT
+I5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3
+OTM3MTk4LC0xOTAzNTYwODg0XX0=
 -->
