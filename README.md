@@ -361,8 +361,15 @@ TC_эк = TC_бух + ТС_неявн
 
 Постоянные издержки -- те расходы, сумма которых не зависит от изменения объёмом производства 
 `TFC -- общие постоянные издержки (total fixes costs)` 
+`AFC = TFC / Q`
+
+`TVC -- total varied costs` 
+`AVC = TVC / Q`
+`MC = delta TC / delta Q`
+`TC = TFC + TVC`
+`ATC = AFC + AVC = TFC / Q + `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ1NTgzMDcsLTc0MzEyNTU1NiwxOT
+eyJoaXN0b3J5IjpbLTE2NDgxOTU5NjMsLTc0MzEyNTU1NiwxOT
 EyNzA0NzgsLTExNzM3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0
 NzM4NzYsNzY2NDE3NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LD
 E1Mzg4MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4
