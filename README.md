@@ -340,8 +340,10 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 Состояние равновесия потребителя: `MRS = -Q_y / Q_x = P_x / P_y`
 
 ## Теория фирмы
+Основным субъектом является предприниматель, основная цель производства -- получение прибыли 
+`TR = P * Q` -- выручка - это произведения цены товара на его количество
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk3NzU4NDYsMTkxMjcwNDc4LC0xMT
+eyJoaXN0b3J5IjpbLTIwODcxODcyNDEsMTkxMjcwNDc4LC0xMT
 czNzQ5MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQx
 NzcxLC0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC
 0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4
