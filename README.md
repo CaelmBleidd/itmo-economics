@@ -323,7 +323,7 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 Спрос зависит не только от дохода, но и намерений по покупке других товаров
 
 В рамках данного направления были разработаны два инструмента:
-кривая безразличия и ...
+кривая безразличия и бюджетная линик
 
 Кривая безразличия -- линия, все точки которой показывают разнообразные комбинации двух товаров, имеющих одинаковую полезность для потребителя
 Свойства:
@@ -331,8 +331,12 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 * выпуклая относительно того же челика
 * точки, лежащие выше кривой безразличности, имеют бОльшую полезность
 * `MRS -- marginal rate of substitution = Q_y / Q_x`
+
+Бюджетная линия -- прямая, все точки которой показывают комбинации, обеспечивающих полное использование дохода потребителя
+`I = P_x * Q_x + P_y * Q_y`
+Угол наклона `P_x / P_y`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNzIwMzkwLDE5MTI3MDQ3OCwtMTE3Mz
+eyJoaXN0b3J5IjpbMzcwNDczMTI3LDE5MTI3MDQ3OCwtMTE3Mz
 c0OTMwMiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Niw3NjY0MTc3
 MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMj
 kzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5
