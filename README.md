@@ -360,11 +360,11 @@ TC_эк = TC_бух + ТС_неявн
 В кратчайшем периоде все факторы и издержки по ним будут постоянными, в краткосрочном периоде некоторые будут переменными, дальше я забыл, соре
 
 Постоянные издержки -- те расходы, сумма которых не зависит от изменения объёмом производства 
-TFC -- общие постоянные издержки (total fixes costs)
+`TFC -- общие постоянные издержки (total fixes costs)` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Nzk3MDc5MSwtNzQzMTI1NTU2LDE5MT
-I3MDQ3OCwtMTE3Mzc0OTMwMiwtMTkyMjQ1MDAzNCwtMTc5MzQ3
-Mzg3Niw3NjY0MTc3MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMT
-UzODgyOTEyOSwtMjkzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgy
-OTk1NzIsLTEyODc5MzcxOTgsLTE5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjQ1NTgzMDcsLTc0MzEyNTU1NiwxOT
+EyNzA0NzgsLTExNzM3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0
+NzM4NzYsNzY2NDE3NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LD
+E1Mzg4MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4
+Mjk5NTcyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
 -->
