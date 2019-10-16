@@ -324,11 +324,17 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 
 В рамках данного направления были разработаны два инструмента:
 кривая безразличия и ...
+
 Кривая безразличия -- линия, все точки которой показывают разнообразные комбинации двух товаров, имеющих одинаковую полезность для потребителя
+Свойства:
+* имеет отрицательный наклон
+* выпуклая относительно того же челика
+* точки, лежащие выше кривой безразличности, имеют бОльшую полезность
+* ```MRS -- marginal rate pf substitution = Q_y / Q_x ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUwNjk0OTAsMTkxMjcwNDc4LC0xMT
-czNzQ5MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQx
-NzcxLC0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC
-0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4
-NzkzNzE5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbMjY2MzU2MDQ1LDE5MTI3MDQ3OCwtMTE3Mz
+c0OTMwMiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Niw3NjY0MTc3
+MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMj
+kzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5
+MzcxOTgsLTE5MDM1NjA4ODRdfQ==
 -->
