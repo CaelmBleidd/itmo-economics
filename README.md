@@ -339,10 +339,11 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 Состояние равновесия достигается в точке касания кривой безразличия и бюджетной линии
 Состояние равновесия потребителя: `MRS = -Q_y / Q_x = P_x / P_y`
 
+## Теория фирмы
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjcwNjcyNSwxOTEyNzA0NzgsLTExNz
-M3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3
-NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLT
-I5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3
-OTM3MTk4LC0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbLTExOTk3NzU4NDYsMTkxMjcwNDc4LC0xMT
+czNzQ5MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQx
+NzcxLC0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC
+0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4
+NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
