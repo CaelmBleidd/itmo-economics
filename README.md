@@ -302,10 +302,20 @@ E_di < 0 -- некачественные товары (речь не о каче
 1. С увеличением количества благ общая полезность увеличивается (но не до бесконечности, иначе бы мы лопнули. Увеличивается до определённой точки, в которой принимает максимальное значение. Точка соответствует максимальному насыщению, если перейти за неё, всё падает)
 2. Предельная полезность каждой последующей единицы уменьшается
 
+Основные допущения:
+3. Упорядоченность предпочтений
+4. Транзитивность предпочтений
+5. Ненасыщенность потребностей 
+6. Наличие всей необходимой информации о товаре и рынке
+
+Правила максимизации потребностей -- потребитель достигает максимального удовлетворения, если предельные полезности благ в расчёте на одну денежную единицу, оказываются одинаковыми. 
+```
+MU_1/P_
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjcwNDc4LC0xMTczNzQ5MzAyLC0xOT
-IyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQxNzcxLC0yNzY2Njk5
-NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0OTAwNDcsLT
-E2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMTkw
-MzU2MDg4NF19
+eyJoaXN0b3J5IjpbLTU3NTYzNTcxMCwxOTEyNzA0NzgsLTExNz
+M3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3
+NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLT
+I5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3
+OTM3MTk4LC0xOTAzNTYwODg0XX0=
 -->
