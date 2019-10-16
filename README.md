@@ -349,10 +349,21 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 Виды издержек
 1. Явные (фактические, бухгалтерские)
 2. Неявные (альтернативные, издержки упущенной выгоды)
+
+```
+TC_эк = TC_бух + ТС_неявн
+Прибыль_бух = TR - TC_бух > 0
+Прибыль_эк = TR - TC_эк = TR - TC_бух - TC_неявн < 0
+```
+Прибыль_эк >= 0
+
+В кратчайшем периоде все факторы и издержки по ним будут постоянными, в краткосрочном периоде некоторые будут переменными, дальше я забыл, соре
+
+Постоянные издержки -- те расходы, сумма которых не зависит от изменения объёмом производства 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNz
-M3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3
-NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLT
-I5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3
-OTM3MTk4LC0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbODY5NDUyNzQ2LC03NDMxMjU1NTYsMTkxMj
+cwNDc4LC0xMTczNzQ5MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDcz
+ODc2LDc2NjQxNzcxLC0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNT
+M4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5
+OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
