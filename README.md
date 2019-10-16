@@ -330,9 +330,9 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 * имеет отрицательный наклон
 * выпуклая относительно того же челика
 * точки, лежащие выше кривой безразличности, имеют бОльшую полезность
-* ```MRS -- marginal rate pf substitution = Q_y / Q_x ```
+* `MRS -- marginal rate of substitution = Q_y / Q_x`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MzU2MDQ1LDE5MTI3MDQ3OCwtMTE3Mz
+eyJoaXN0b3J5IjpbMzAyNzIwMzkwLDE5MTI3MDQ3OCwtMTE3Mz
 c0OTMwMiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Niw3NjY0MTc3
 MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMj
 kzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5
