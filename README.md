@@ -310,7 +310,7 @@ E_di < 0 -- некачественные товары (речь не о каче
 
 Правила максимизации потребностей -- потребитель достигает максимального удовлетворения, если предельные полезности благ в расчёте на одну денежную единицу, оказываются одинаковыми. 
 ```
-MU_1/P_1 = MU_2/P_2 = MU_n/P_n = Lambda, 
+MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda, 
 где Lambda -- предельная полезность денег
 ```
 
@@ -319,11 +319,16 @@ MU_1/P_1 = MU_2/P_2 = MU_n/P_n = Lambda,
 2. Эффект сноба
 
 ### Ординалистская теория
+Спрос зависит от предпочтений потребителей, при этом происходит ранжирование товаров
+Спрос зависит не только от дохода, но и намерений по покупке других товаров
 
+В рамках данного направления были разработаны два инструмента:
+кривая безразличия и ...
+Кривая безразличия -- линия, все точки которой показывают разнообразные комбинации двух товаров, имеющих одинаковую полезность для потребителя
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzcwNDQ1MCwxOTEyNzA0NzgsLTExNz
-M3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3
-NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLT
-I5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3
-OTM3MTk4LC0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbLTExNjUwNjk0OTAsMTkxMjcwNDc4LC0xMT
+czNzQ5MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQx
+NzcxLC0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC
+0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4
+NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
