@@ -398,12 +398,14 @@ Q = f(K, T)
 `MP_k = delta TP / delta Q_k`
 
 **Закон убывающей отдачи:**
-если объемы факторов производства фиксированы, предельный продукт переменного фактора (труда) сверх некоторого уровня его использования будет уменьшаться по мере роста масштабов вовлечения этого фактора в производство.
+если объемы факторов производства фиксированы, предельный продукт переменного фактора (труда) сверх некоторого уровня его использования будет уменьшаться по мере роста масштабов вовлечения этого фактора в производство
+
+Изокванта -- линия, все точки которой представляют собой комбинации ресурсов для достижения определённого объёма производства
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjg0NjM0NCwxODkxNDEzMjg4LDE1MD
-E4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNzM3NDkz
-MDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLT
-I3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5
-MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MT
-k4LC0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbNDEyMTkxMTM4LDE4OTE0MTMyODgsMTUwMT
+g4MTEzNiwtNzQzMTI1NTU2LDE5MTI3MDQ3OCwtMTE3Mzc0OTMw
+MiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Niw3NjY0MTc3MSwtMj
+c2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkw
+MDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOT
+gsLTE5MDM1NjA4ODRdfQ==
 -->
