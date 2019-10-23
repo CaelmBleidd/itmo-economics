@@ -385,14 +385,25 @@ TC_эк = TC_бух + ТС_неявн
 Технологический выбор означает, что из всех возможных вариантов производства мы выбираем самый эффективный для нас с точки зрения технологий. Экономический состоит в том, что мы ещё учитываем цены ресурсов. 
 ``` 
 Q = F(x_1, x_2, ..., x_n)
-Q = f(
+Q = f(K, T)
 ```
+Кобб и Дуглас доказали, что можно использовать только два фактора -- труд и капитал (капитал -- постоянный фактор, труд -- переменный)
 
+`TP -- совокупный продукт (total product) = Q`
+`AP_t -- average product = TP / Q_t` -- производительность труда
+`AP_k -- средний продукт капитала -- TP / Q_k` -- капиталоотдача
+
+Предельные продукты:
+`MP_t = delta (TP) / delta Q_t`
+`MP_k = delta TP / delta Q_k`
+
+**Закон убывающей отдачи:**
+если объемы факторов производства фиксированы, предельный продукт переменного фактора (труда) сверх некоторого уровня его использования будет уменьшаться по мере роста масштабов вовлечения этого фактора в производство.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1OTIyOTAwLDE4OTE0MTMyODgsMTUwMT
-g4MTEzNiwtNzQzMTI1NTU2LDE5MTI3MDQ3OCwtMTE3Mzc0OTMw
-MiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Niw3NjY0MTc3MSwtMj
-c2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkw
-MDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOT
-gsLTE5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbMTUwNjg0NjM0NCwxODkxNDEzMjg4LDE1MD
+E4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNzM3NDkz
+MDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLT
+I3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5
+MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MT
+k4LC0xOTAzNTYwODg0XX0=
 -->
