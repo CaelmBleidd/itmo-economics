@@ -376,11 +376,23 @@ TC_эк = TC_бух + ТС_неявн
 
 Свойства:
 1. Каждая производственная функция характеризует ту или иную эффективную технологию, используемую фирмой
+2. Если увеличивается один ресурс (при неизменности всех остальных) или растёт количество всех используемых ресурсов, то мы говорим, что фирма расширяет объем производства, и наоборот. 
+3. Если отсутствует хотя бы один ресурс, производство невозможно
+
+Производственная функция характеризует технологию с непрерывной заменяемостью факторов, что позволяет использовать аппарат дифференциальных исчислений. 
+
+Два выбора: технологический и экономический.  
+Технологический выбор означает, что из всех возможных вариантов производства мы выбираем самый эффективный для нас с точки зрения технологий. Экономический состоит в том, что мы ещё учитываем цены ресурсов. 
+``` 
+Q = F(x_1, x_2, ..., x_n)
+Q = f(
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODU1OTA0NiwxODkxNDEzMjg4LDE1MD
-E4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNzM3NDkz
-MDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLT
-I3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5
-MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MT
-k4LC0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbODk1OTIyOTAwLDE4OTE0MTMyODgsMTUwMT
+g4MTEzNiwtNzQzMTI1NTU2LDE5MTI3MDQ3OCwtMTE3Mzc0OTMw
+MiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Niw3NjY0MTc3MSwtMj
+c2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkw
+MDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOT
+gsLTE5MDM1NjA4ODRdfQ==
 -->
