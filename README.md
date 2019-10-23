@@ -409,7 +409,7 @@ Q = f(K, T)
 Рыночная структура -- это некий набор факторов, который определяет характер взаимодействия фирм. ... -- количество фирм на рынке и их размеры.
 
 Факторы: 
-1.
+1. Количество фирм на рынке
 2. Тип производимой продукции
 3. Возможность входа и выхода в отрасль 
 
@@ -425,12 +425,12 @@ Q = f(K, T)
 Свойства монополистической конкуренции:
 * тоже большое количество фирм в отрасли, но с дифференциацией по размеру
 * продукция дифференцированная 
-
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNjY5MzM1LDE2ODAwNjM3NDAsMTg5MT
-QxMzI4OCwxNTAxODgxMTM2LC03NDMxMjU1NTYsMTkxMjcwNDc4
-LC0xMTczNzQ5MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LD
-c2NjQxNzcxLC0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5
-MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3Mi
-wtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbMTU1NjY4NTQ2NywxNjgwMDYzNzQwLDE4OT
+E0MTMyODgsMTUwMTg4MTEzNiwtNzQzMTI1NTU2LDE5MTI3MDQ3
+OCwtMTE3Mzc0OTMwMiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Ni
+w3NjY0MTc3MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgy
+OTEyOSwtMjkzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1Nz
+IsLTEyODc5MzcxOTgsLTE5MDM1NjA4ODRdfQ==
 -->
