@@ -418,10 +418,14 @@ Q = f(K, T)
 2. Несовершенная конкуренция -- к этому относятся все остальные. Разделяют монополистическую конкуренцию, олигополию и монополию. 
 
 Свойства совершенной конкуренции:
+* большое количество фирм на рынке, каждая из которых обладает маленькой долей 
+* тип производимой продукции -- однородная 
+* очень просто войти и выйти
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjE5NDQxMiwxODkxNDEzMjg4LDE1MD
+eyJoaXN0b3J5IjpbMTY4MDA2Mzc0MCwxODkxNDEzMjg4LDE1MD
 E4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNzM3NDkz
 MDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLT
 I3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5
