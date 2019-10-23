@@ -422,13 +422,15 @@ Q = f(K, T)
 * тип производимой продукции -- однородная 
 * очень просто войти и выйти
 
-
+Свойства монополистической конкуренции:
+* тоже большое количество фирм в отрасли, но с дифференциацией по размеру
+* продукция дифференцированная 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDA2Mzc0MCwxODkxNDEzMjg4LDE1MD
-E4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNzM3NDkz
-MDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLT
-I3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5
-MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MT
-k4LC0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbNDcxNjY5MzM1LDE2ODAwNjM3NDAsMTg5MT
+QxMzI4OCwxNTAxODgxMTM2LC03NDMxMjU1NTYsMTkxMjcwNDc4
+LC0xMTczNzQ5MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LD
+c2NjQxNzcxLC0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5
+MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3Mi
+wtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
 -->
