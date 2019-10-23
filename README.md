@@ -346,7 +346,7 @@ MU_1 / P_1 = MU_2 / P_2 = MU_n / P_n = Lambda,
 `AR -- Average revenue = TR / Q`
 `MR -- marginal revenue = delta TR / delta Q`
 
-Виды издержек
+**Виды издержек**
 1. Явные (фактические, бухгалтерские)
 2. Неявные (альтернативные, издержки упущенной выгоды)
 
@@ -359,7 +359,7 @@ TC_эк = TC_бух + ТС_неявн
 
 В кратчайшем периоде все факторы и издержки по ним будут постоянными, в краткосрочном периоде некоторые будут переменными, дальше я забыл, соре
 
-Постоянные издержки -- те расходы, сумма которых не зависит от изменения объёмом производства 
+**Постоянные издержки** -- те расходы, сумма которых не зависит от изменения объёмом производства 
 `TFC -- общие постоянные издержки (total fixes costs)` 
 `AFC = TFC / Q`
 
@@ -368,10 +368,15 @@ TC_эк = TC_бух + ТС_неявн
 `MC = delta TC / delta Q`
 `TC = TFC + TVC`
 `ATC = AFC + AVC = TFC / Q + TVC / Q`
+
+**Предельные издержки** -- издержки, затраченные на производство дополнительной единицы продукции
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTg4MTEzNiwtNzQzMTI1NTU2LDE5MT
-I3MDQ3OCwtMTE3Mzc0OTMwMiwtMTkyMjQ1MDAzNCwtMTc5MzQ3
-Mzg3Niw3NjY0MTc3MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMT
-UzODgyOTEyOSwtMjkzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgy
-OTk1NzIsLTEyODc5MzcxOTgsLTE5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbMTg5MTQxMzI4OCwxNTAxODgxMTM2LC03ND
+MxMjU1NTYsMTkxMjcwNDc4LC0xMTczNzQ5MzAyLC0xOTIyNDUw
+MDM0LC0xNzkzNDczODc2LDc2NjQxNzcxLC0yNzY2Njk5NzksLT
+k3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQx
+NDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MD
+g4NF19
 -->
