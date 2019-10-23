@@ -425,12 +425,17 @@ Q = f(K, T)
 Свойства монополистической конкуренции:
 * тоже большое количество фирм в отрасли, но с дифференциацией по размеру
 * продукция дифференцированная 
+* довольно просто выйти и выйти
+
+Олигополия:
+* весь рынок поделен на шесть и меньше участников рынка (частный случай -- дуополия)
+* продукция однородная
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjY4NTQ2NywxNjgwMDYzNzQwLDE4OT
-E0MTMyODgsMTUwMTg4MTEzNiwtNzQzMTI1NTU2LDE5MTI3MDQ3
-OCwtMTE3Mzc0OTMwMiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Ni
-w3NjY0MTc3MSwtMjc2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgy
-OTEyOSwtMjkzNDkwMDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1Nz
-IsLTEyODc5MzcxOTgsLTE5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbLTEzNzU2NzU3ODgsMTY4MDA2Mzc0MCwxOD
+kxNDEzMjg4LDE1MDE4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0
+NzgsLTExNzM3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4Nz
+YsNzY2NDE3NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4
+MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NT
+cyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
 -->
