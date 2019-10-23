@@ -400,12 +400,14 @@ Q = f(K, T)
 **Закон убывающей отдачи:**
 если объемы факторов производства фиксированы, предельный продукт переменного фактора (труда) сверх некоторого уровня его использования будет уменьшаться по мере роста масштабов вовлечения этого фактора в производство
 
-Изокванта -- линия, все точки которой представляют собой комбинации ресурсов для достижения определённого объёма производства
+Изокванта -- линия, все точки которой представляют собой комбинации ресурсов для достижения определённого объёма производства. Связана с ограничениями по финансам
+
+Изокоста -- связана с ограничениями по издержкам -- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMTkxMTM4LDE4OTE0MTMyODgsMTUwMT
-g4MTEzNiwtNzQzMTI1NTU2LDE5MTI3MDQ3OCwtMTE3Mzc0OTMw
-MiwtMTkyMjQ1MDAzNCwtMTc5MzQ3Mzg3Niw3NjY0MTc3MSwtMj
-c2NjY5OTc5LC05NzMyMzY0NzYsMTUzODgyOTEyOSwtMjkzNDkw
-MDQ3LC0xNjM0MTQ1MTQ1LC0yOTgyOTk1NzIsLTEyODc5MzcxOT
-gsLTE5MDM1NjA4ODRdfQ==
+eyJoaXN0b3J5IjpbLTEzNDY4MTczNjMsMTg5MTQxMzI4OCwxNT
+AxODgxMTM2LC03NDMxMjU1NTYsMTkxMjcwNDc4LC0xMTczNzQ5
+MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQxNzcxLC
+0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0
+OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNz
+E5OCwtMTkwMzU2MDg4NF19
 -->
