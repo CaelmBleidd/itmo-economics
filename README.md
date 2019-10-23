@@ -402,12 +402,12 @@ Q = f(K, T)
 
 Изокванта -- линия, все точки которой представляют собой комбинации ресурсов для достижения определённого объёма производства. Связана с ограничениями по финансам
 
-Изокоста -- связана с ограничениями по издержкам -- 
+Изокоста -- связана с ограничениями по издержкам -- линия, показывающая все имеющиеся варианты сочетания двух факторов производства, при которых совокупные расходы на их приобретение будут равны
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY4MTczNjMsMTg5MTQxMzI4OCwxNT
-AxODgxMTM2LC03NDMxMjU1NTYsMTkxMjcwNDc4LC0xMTczNzQ5
-MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQxNzcxLC
-0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0
-OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNz
-E5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbMTQ4NTgzNzc0MywxODkxNDEzMjg4LDE1MD
+E4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNzM3NDkz
+MDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLT
+I3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5
+MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MT
+k4LC0xOTAzNTYwODg0XX0=
 -->
