@@ -406,12 +406,25 @@ Q = f(K, T)
 
 
 ### Рыночная структура
+Рыночная структура -- это некий набор факторов, который определяет характер взаимодействия фирм. ... -- количество фирм на рынке и их размеры.
+
+Факторы: 
+1.
+2. Тип производимой продукции
+3. Возможность входа и выхода в отрасль 
+
+Все рыночные структуры делятся на две группы:
+1. Совершенная конкуренция -- к этому относится только рынок совершенной конкуренции
+2. Несовершенная конкуренция -- к этому относятся все остальные. Разделяют монополистическую конкуренцию, олигополию и монополию. 
+
+Свойства совершенной конкуренции:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcxMDUyNDYsMTg5MTQxMzI4OCwxNT
-AxODgxMTM2LC03NDMxMjU1NTYsMTkxMjcwNDc4LC0xMTczNzQ5
-MzAyLC0xOTIyNDUwMDM0LC0xNzkzNDczODc2LDc2NjQxNzcxLC
-0yNzY2Njk5NzksLTk3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0
-OTAwNDcsLTE2MzQxNDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNz
-E5OCwtMTkwMzU2MDg4NF19
+eyJoaXN0b3J5IjpbMTc2MjE5NDQxMiwxODkxNDEzMjg4LDE1MD
+E4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNzM3NDkz
+MDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLT
+I3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5
+MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MT
+k4LC0xOTAzNTYwODg0XX0=
 -->
