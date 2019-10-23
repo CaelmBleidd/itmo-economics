@@ -371,12 +371,16 @@ TC_эк = TC_бух + ТС_неявн
 
 **Предельные издержки** -- издержки, затраченные на производство дополнительной единицы продукции
 
+Любая фирма работает по определённой производственной функции. 
+Производственная функция -- это зависимость между количеством и структурой использованных ресурсов и максимально возможным объёмом производства продукции, который фирма способна произвести в течение определённого периода времени 
 
+Свойства:
+1. Каждая производственная функция характеризует ту или иную эффективную технологию, используемую фирмой
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTQxMzI4OCwxNTAxODgxMTM2LC03ND
-MxMjU1NTYsMTkxMjcwNDc4LC0xMTczNzQ5MzAyLC0xOTIyNDUw
-MDM0LC0xNzkzNDczODc2LDc2NjQxNzcxLC0yNzY2Njk5NzksLT
-k3MzIzNjQ3NiwxNTM4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQx
-NDUxNDUsLTI5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MD
-g4NF19
+eyJoaXN0b3J5IjpbLTk4ODU1OTA0NiwxODkxNDEzMjg4LDE1MD
+E4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0NzgsLTExNzM3NDkz
+MDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4NzYsNzY2NDE3NzEsLT
+I3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4MjkxMjksLTI5MzQ5
+MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NTcyLC0xMjg3OTM3MT
+k4LC0xOTAzNTYwODg0XX0=
 -->
