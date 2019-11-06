@@ -237,9 +237,9 @@ TODO(ВМЁРЖИТЬ ЛЕКЦИЮ ВЛАДИМИРА)
 Если <5%, используется формула точечной эластичности спроса по цене: `E_dp = delta(Q)d / Qd : delta(P) / P_0`
 Если >5%, используется дуговая формула: `E_dp = (Q_d2 - Q_d1) / [(Q_d2 + Qd1) : 2] : (P_2 - P_1) / [(P_2 + P_1) : 2]`
 
-Если E_dp > 1, мы говорим, что это эластичный спрос
-Если E_dp = 1, это спрос единичной эластичности 
-Если 0 < E_dp < 1, это неэластичный спрос
+* Если E_dp > 1, мы говорим, что это эластичный спрос
+* Если E_dp = 1, это спрос единичной эластичности 
+* Если 0 < E_dp < 1, это неэластичный спрос
 
 Если линия эластичного спроса горизонтальная -- это абсолютный эластичный спрос, E_d -> +inf
 Если прямая спроса вертикальная -- это абсолютно неэластичный спрос. E_d = 0. Нет никакого изменения вне зависимости от изменения цены. Например, если вам нужна операция, от которой зависит ваша жизнь, и вы готовы заплатить любую цену
@@ -256,19 +256,20 @@ TODO(ВМЁРЖИТЬ ЛЕКЦИЮ ВЛАДИМИРА)
 E_dxy или E_d12 (показываем, что зависимость **двух** товаров)
 `E_dxy = % delta Q_dx / % delta P_y`
 `E_dxy = delta Q_dx / Q_dx0 : (delta P_y / P_y0)`
-Если E_dxy > 0 -- взаимодополняемые товары
-Если E_dxy = 0 -- нейтральные, независимые товары
-Если E_dxy < 0 -- взаимозаменяемые товары
+
+* Если E_dxy > 0 -- взаимозаменяемые товары
+* Если E_dxy = 0 -- нейтральные, независимые товары
+* Если E_dxy < 0 -- взаимодополняемые товары
 
 ### Эластичность спроса по доходу
 `E_di = % delta Q_d / % delta I`
 `E_di = delta Q_d / Q_d0 : (delta I / I_0)`
-E_di > 0 -- нормальные товары
-0 < E_di < 1 -- товары первой необходимости 
-E_di = 1 -- товары повседневного спроса
-E_di > 1 -- предметы роскоши
-E_di = 0 -- нейтральные товары
-E_di < 0 -- некачественные товары (речь не о качестве, чснх)
+* E_di > 0 -- нормальные товары
+* 0 < E_di < 1 -- товары первой необходимости 
+* E_di = 1 -- товары повседневного спроса
+* E_di > 1 -- предметы роскоши
+* E_di = 0 -- нейтральные товары
+* E_di < 0 -- некачественные товары (речь не о качестве, чснх)
 
 ## Эластичность предложения 
 `E_s = % delta Q / % delta P`
@@ -432,10 +433,11 @@ Q = f(K, T)
 * продукция однородная
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU2NzU3ODgsMTY4MDA2Mzc0MCwxOD
-kxNDEzMjg4LDE1MDE4ODExMzYsLTc0MzEyNTU1NiwxOTEyNzA0
-NzgsLTExNzM3NDkzMDIsLTE5MjI0NTAwMzQsLTE3OTM0NzM4Nz
-YsNzY2NDE3NzEsLTI3NjY2OTk3OSwtOTczMjM2NDc2LDE1Mzg4
-MjkxMjksLTI5MzQ5MDA0NywtMTYzNDE0NTE0NSwtMjk4Mjk5NT
-cyLC0xMjg3OTM3MTk4LC0xOTAzNTYwODg0XX0=
+eyJoaXN0b3J5IjpbNjM3MTM1MjE0LC0xMzc1Njc1Nzg4LDE2OD
+AwNjM3NDAsMTg5MTQxMzI4OCwxNTAxODgxMTM2LC03NDMxMjU1
+NTYsMTkxMjcwNDc4LC0xMTczNzQ5MzAyLC0xOTIyNDUwMDM0LC
+0xNzkzNDczODc2LDc2NjQxNzcxLC0yNzY2Njk5NzksLTk3MzIz
+NjQ3NiwxNTM4ODI5MTI5LC0yOTM0OTAwNDcsLTE2MzQxNDUxND
+UsLTI5ODI5OTU3MiwtMTI4NzkzNzE5OCwtMTkwMzU2MDg4NF19
+
 -->
